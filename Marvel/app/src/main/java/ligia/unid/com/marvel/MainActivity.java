@@ -147,7 +147,7 @@ public class MainActivity extends ActionBarActivity {
     public static long timeStamp = System.currentTimeMillis();
     public static final String privateKey = "208c8d07c3beffd59b38b0c75cc31c7f329918a2";
     public static final String publicKey = "b60628e40478d0bbeb32387385819709";
-    static int limit = 19;
+    static int limit = 9;
 
     public String getResponse() {
         return Response;
